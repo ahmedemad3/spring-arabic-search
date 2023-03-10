@@ -1,4 +1,4 @@
-# Spring REST API for Employee Management and Arabic Word Search
+# Spring REST API for Employee Management and Arabic Search
 This is a Spring REST API project developed using Java and PostgreSQL for managing employees and searching Arabic words.
 
 # Features
