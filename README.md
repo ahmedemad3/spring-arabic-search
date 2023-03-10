@@ -3,7 +3,7 @@ This is a Spring REST API project developed using Java and PostgreSQL for managi
 
 # Features
 * Employee Management: This API allows users to create list of employees or single employee, Each employee has a unique ID, fisrt name , last name , full name, age, and name nomralize.
-* Arabic Word Search: This API allows users to search for Arabic words in a database of pre-defined words. Users can enter a search term and the API will return a list of words that contain the search term.
+* Arabic Search: This API allows users to search for Arabic words in a database of pre-defined words. Users can enter a search term and the API will return a list of words that contain the search term.
 
 # Technology Stack
 The following technologies are used in this project:
