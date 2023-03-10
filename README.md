@@ -41,7 +41,7 @@ mvn spring-boot:run
 * POST /employees/save: Create a new employee.
 * POST /employees/save/all: Create list of employees.
 
-# Arabic Word Search
+# Arabic Search
 * GET /employees/search?q={searchTerm}: Search for Arabic words that contain the specified search term.
 
 # License
